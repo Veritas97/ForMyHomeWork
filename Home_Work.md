@@ -1,3 +1,4 @@
+![Logo](Git_logo1.png)
 ## 1. Установка `git` и `VScode`
 1. Для того что бы начать работу с Git, на требуется устрановить две програмки.
 * https://git-scm.com/downloads
